@@ -1,5 +1,5 @@
 # Machine_Learning_Projects
-<b>Prerequisites<b>
-1.Jupyter Notebook
-2.Python
+Prerequisites<br/>
+1.Jupyter Notebook<br/>
+2.Python<br/>
 3.Some Machine learning libraries
